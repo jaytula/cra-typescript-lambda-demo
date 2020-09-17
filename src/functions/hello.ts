@@ -1,4 +1,4 @@
-import { Handler, Context, Callback, APIGatewayEvent} from 'aws-lambda'
+import { Context, Callback, APIGatewayEvent} from 'aws-lambda'
 
 exports.handler = function(event: APIGatewayEvent, context: Context, callback: Callback) {
   callback(null, {
