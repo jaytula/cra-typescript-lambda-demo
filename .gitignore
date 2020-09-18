@@ -22,6 +22,6 @@ npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 
-/bar-lambda
+/lambda
 
 package-lock.json
